@@ -1,5 +1,7 @@
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
+Nama : Farhan Firmansyah
+NIM : 2205101063
 
 # Index.html (Belum direvisi):
 
